@@ -1,0 +1,23 @@
+{
+  "name": "aero-rake-daq",
+  "version": "1.0.0",
+  "description": "data processing for aero testing pressure sensor array",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksermon/aero_rake_daq.git"
+  },
+  "author": "Keeley Sermon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksermon/aero_rake_daq/issues"
+  },
+  "homepage": "https://github.com/ksermon/aero_rake_daq#readme",
+  "devDependencies": {
+    "electron": "^38.2.2"
+  }
+}
